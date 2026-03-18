@@ -17,8 +17,6 @@
 * Il sert a créer des mods pour NayIA 2.1
 * et 2.1 Pro
 * 
-* [Technologies](#-technologies)
-* 
 * [Licence](#-licence)
 * Le Logiciel utilise une licence créative commons 4.0
 * 
