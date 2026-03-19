@@ -9,13 +9,12 @@
 * 
 * [Installation](#-installation)
 * 
-
 * Pour utiliser CustIA veuillez avoir installé python 3 sur votre ordinateur et avoir un IDE python.
 * 
 * [Utilisation](#-utilisation)
 
 * Il sert a créer des mods pour NayIA 2.1
-* et 2.1 Pro
+* et 2.1 Pro. Il mets le .NayMOD directement dans votre stockage interne **(ATTENTION, NE PAS DÉPLACER LE FICHIER .NAYMOD)** NayIA 2.1 et 2.1 Pro cherchera dans cette endroit et l'utilise
 * 
 * [Licence](#-licence)
 * Le Logiciel utilise une licence créative commons 4.0
