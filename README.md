@@ -18,6 +18,14 @@
 * 
 * [Licence](#-licence)
 * Le Logiciel utilise une licence créative commons 4.0
+
+* [Versions compatibles](#-version compatibles)
+
+* -NayIA 2.1
+* -NayIA 2.1 PRO
+* -NayIA 2.1+
+
+* (PS: les versions compatibles au .NayMOD ne sont pas encore sorti, ce message disparaîtra quand la version 2.1 et 2.1 Pro seront sorti! Je bous laisse juste ceeer plein de mod différents pour que quand il sera sorti vous aurez l'embarras du choix de mods!)
 * 
 * [Auteurs](#-auteurs)
 
