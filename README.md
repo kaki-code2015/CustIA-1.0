@@ -25,7 +25,7 @@
 * -NayIA 2.1 PRO
 * -NayIA 2.1+
 
-* (PS: les versions compatibles au .NayMOD ne sont pas encore sorti, ce message disparaîtra quand la version 2.1 et 2.1 Pro seront sorti! Je bous laisse juste ceeer plein de mod différents pour que quand il sera sorti vous aurez l'embarras du choix de mods!)
+* (PS: les versions compatibles au .NayMOD ne sont pas encore sorti, ce message disparaîtra quand la version 2.1 et 2.1 Pro seront sorti! Je vous laisse juste creer plein de mod différents pour que quand il sera sorti vous aurez l'embarras du choix de mods!)
 * 
 * [Auteurs](#-auteurs)
 
